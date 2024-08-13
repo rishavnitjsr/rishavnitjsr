@@ -14,34 +14,31 @@
 
 <br><br>
 
-- University : I am a Student at [National Institute of Technology, Jamshedpur](https://www.nitjsr.ac.in/).
-- Technologist: I love using Software as a solution for every Problem.
-- Computer : I am a competitive programmer at Codeforces, Leetcode.
-- Student : I’m currently learning Computer Science and Software Engineering.
-- Thinking : I’m currently open for a new job opportunity, this is [MY RESUME](https://drive.google.com/drive/folders/1yeCGcgQjjdz72OdXQ-JFoA0gku9fT5M6?usp=sharing).
-- BOOM : You can visit [MY WEBSITE](https://github.com/vinaytheprogrammer).
+- University : Masters In Computer Application from [National Institute of Technology, Jamshedpur](https://www.nitjsr.ac.in/).
+- Thinking : I’m currently open for a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/10AMhB6dw5I1eoOIAWrs6Akc6SbQYOy5Z/view?usp=sharing).
+- BOOM : You can visit [MY WEBSITE](https://github.com/rishavnitjsr).
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaytheprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="vinaytheprogrammer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavnitjsr&label=Profile%20views&color=0e75b6&style=flat" alt="rishavnitjsr" /> </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-<a href="https://codeforces.com/profile/vinaytheprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/vinayguptanitjsr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vinaytheprogram1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinaytheprogram1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vinaytheprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
-<a href="https://codepen.io/vinaytheprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19450935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19450935" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vinaythepro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vinaythepro" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/vinnaytheprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vinnaytheprogrammer" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rishav2106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rishav2106" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/nitrb07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitrb07" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/rishavnitjsr21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishavnitjsr21" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/rishav2106/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishav2106" height="30" width="40" /></a>
+<a href="https://codepen.io/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rishavnitjsr21" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rishavnitjsr21" height="30" width="40" /></a>
+<a href="https://www.codechef.com/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishavnitjsr21" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rishavnitjsr21" height="30" width="40" /></a>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-<a href="https://linkedin.com/in/vinay-gupta-3179b5185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay-gupta-3179b5185" height="30" width="40" /></a>
-<a href="https://instagram.com/vinaygupta017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinaygupta017" height="30" width="40" /></a>
-<a href="https://fb.com/vinaytheprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>   
+<a href="https://www.linkedin.com/in/rk87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rk87" height="30" width="40" /></a>
+<a href="https://instagram.com/arbitrary_photon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arbitrary_photon" height="30" width="40" /></a>
+<a href="https://facebook.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishavnitjsr" height="30" width="40" /></a>
 </p>
 
 
