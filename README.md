@@ -32,9 +32,8 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-<a href="https://linkedin.com/in/vinay-gupta-3179b5185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay-gupta-3179b5185" height="30" width="40" /></a>
-<a href="https://instagram.com/vinaygupta017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinaygupta017" height="30" width="40" /></a>
-<a href="https://fb.com/rishavnitjsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishavnitjsr" height="30" width="40" /></a>   
+<a href="https://www.linkedin.com/in/rk87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rk87" height="30" width="40" /></a>
+<a href="https://instagram.com/arbitrary_photon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arbitrary_photon" height="30" width="40" /></a>   
 </p>
 
 
