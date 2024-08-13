@@ -14,12 +14,9 @@
 
 <br><br>
 
-- University : I am a Student at [National Institute of Technology, Jamshedpur](https://www.nitjsr.ac.in/).
-- Technologist: I love using Software as a solution for every Problem.
-- Computer : I am a competitive programmer at Codeforces, Leetcode.
-- Student : I’m currently learning Computer Science and Software Engineering.
+- University : Masters In Computer Appliction from [National Institute of Technology, Jamshedpur](https://www.nitjsr.ac.in/).
 - Thinking : I’m currently open for a new job opportunity, this is [MY RESUME](https://drive.google.com/drive/folders/1yeCGcgQjjdz72OdXQ-JFoA0gku9fT5M6?usp=sharing).
-- BOOM : You can visit [MY WEBSITE](https://github.com/vinaytheprogrammer).
+- BOOM : You can visit [MY WEBSITE](https://github.com/rishavnitjsr).
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaytheprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="vinaytheprogrammer" /> </p>
